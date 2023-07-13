@@ -23,7 +23,7 @@
   <a href="https://www.instagram.com/humbertofox" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://br.linkedin.com/in/humberto-ribeiro-sales" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/HumbertoRSFox" target="_blank"><img src="https://img.shields.io/twitter/url" target="_blank"></a>
+  <a href="https://twitter.com/HumbertoRSFox" target="_blank"><img src="https://img.shields.io/twitch/extension/v/:extensionId" target="_blank"></a>
  
   ![Snake animation](https://github.com/HumbertoFox/HumbertoFox/blob/output/github-contribution-grid-snake.svg)
 
