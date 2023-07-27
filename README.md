@@ -4,8 +4,8 @@
    <a href="https://github.com/HumbertoFox">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HumbertoFox&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumbertoFox&layout=compact&langs_count=6&theme=tokyonight"/>
-
 </div>
+      
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
@@ -15,7 +15,7 @@
 
 <br>
  
-  ### Pra conteúdo sobre programação e eletrônica me segue nas redes abaixo!
+ <p align="center">Pra conteúdo sobre programação e eletrônica me segue nas redes abaixo!</p>
  
 <div align="center"> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
