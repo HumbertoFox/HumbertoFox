@@ -15,7 +15,9 @@
 
 <br>
  
- <p align="center">Pra conteúdo sobre programação e eletrônica me segue nas redes abaixo!</p>
+ <p align="center">
+    Pra conteúdo sobre programação e eletrônica me segue nas redes abaixo!
+ </p>
  
 <div align="center"> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
