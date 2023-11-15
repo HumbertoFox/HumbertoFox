@@ -1,17 +1,15 @@
 <div align="center">
-## Bem-vindo(a) ao perfil do HumbertoFox 😁
-</div>
 
- <div>
-   <a href="https://github.com/HumbertoFox">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HumbertoFox&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumbertoFox&layout=compact&langs_count=6&theme=tokyonight"/>
+ ## Bem-vindo(a) ao perfil do HumbertoFox 😁
+
 </div>
 
 <div align="center">
-<!--    <a href="https://github.com/HumbertoFox">
+ 
+   <a href="https://github.com/HumbertoFox">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HumbertoFox&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumbertoFox&layout=compact&langs_count=6&theme=highcontrast"/> -->
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumbertoFox&layout=compact&langs_count=6&theme=highcontrast"/>
+    
 </div>
       
 <div style="display: inline_block" align="center"><br>
@@ -31,8 +29,16 @@
 
 <br>
 
+<div align="center">
+
+<img height="180em" src="https://github.com/HumbertoFox/repository/assets/126817628/dba6e42c-c67c-4ec6-93dc-8f790922f3ea"/>
+ 
+</div>
+
  <p align="center">
+  
     Pra conteúdo sobre programação e eletrônica me segue nas redes abaixo!
+ 
  </p>
  
 <div align="center"> 
