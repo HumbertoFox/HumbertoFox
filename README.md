@@ -1,6 +1,6 @@
 <div align="center">
 
- ## Bem-vindo(a) ao perfil do HumbertoFox 😁
+ ## Bem-vindo(a) ao perfil do HumbertoFox 😎
 
 </div>
 
@@ -15,7 +15,7 @@
    
 </div>
 
-<br>
+##
       
 <div style="display: inline_block" align="center"><br>
  
@@ -36,24 +36,31 @@
 
 </div>
 
-<br>
-<br>
+##
 
-<div align="center">
+<div>
 
-<img height="180em" alt="Gif" src="https://github.com/HumbertoFox/repository/assets/126817628/dba6e42c-c67c-4ec6-93dc-8f790922f3ea"/>
+<img align="right" height="180em" alt="Gif" src="https://github.com/HumbertoFox/repository/assets/126817628/dba6e42c-c67c-4ec6-93dc-8f790922f3ea"/>
+
+- 👨‍🎓 Estudo para me tornar um **Desenvolvedor Fullstack**.
+
+- 🔍 Veja ulguns pojetos do [**Frontend Mentor**](https://www.frontendmentor.io/profile/HumbertoFox/solutions)!
+
+- 🔍 Dê uma olhada no meu [**Prtifolio**](https://humbertofox.github.io/portfolio/)!
+
+- 🤝 Sempre procuro ajuda para aprender **é ajudando que se aprende**.
+
+- 📚 Atualmente estou aprendendo **Desenvolvimento js FrontEnd**.
  
 </div>
 
-<br>
+##
 
  <div align="center">
   
   ### Pra conteúdo sobre programação e eletrônica me segue nas redes abaixo! 📚
   
  </div>
- 
- <br>
  
 <div align="center">
  
@@ -72,8 +79,10 @@
    
 </div>
 
+##
+
 <div align="center">
  
-  <img src="https://visitor-badge.feriirawann.repl.co/?username=humbertofox&repo=humbertofox&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Contador de Visitas do Perfil no Github de Humberto Ribeiro" height="40px"/>
+  <img height="40px" src="https://visitor-badge.feriirawann.repl.co/?username=humbertofox&repo=humbertofox&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Contador de Visitas do Perfil no Github de Humberto Ribeiro"/>
 
 </div>
