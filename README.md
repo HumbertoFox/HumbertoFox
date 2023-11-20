@@ -4,52 +4,76 @@
 
 </div>
 
+<br>
+
 <div align="center">
  
    <a href="https://github.com/HumbertoFox">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HumbertoFox&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumbertoFox&layout=compact&langs_count=6&theme=highcontrast"/>
-    
+   <img height="180em" alt="Gif" src="https://github-readme-stats.vercel.app/api?username=HumbertoFox&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+   <img height="180em" alt="Gif" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumbertoFox&layout=compact&langs_count=6&theme=highcontrast"/>
+   </a>
+   
 </div>
+
+<br>
       
 <div style="display: inline_block" align="center"><br>
+ 
    <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
    <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-   <img align="center" alt="PHP" height="30" width="40" src="https://www.php.net/images/logos/new-php-logo.svg"/>
+   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+   <img align="center" alt="FIGMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
    <img align="center" alt="Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
    <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
    <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
    <img align="center" alt="Apache" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg"/>
    <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
    <img align="center" alt="Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
+
 </div>
 
+<br>
 <br>
 
 <div align="center">
 
-<img height="180em" src="https://github.com/HumbertoFox/repository/assets/126817628/dba6e42c-c67c-4ec6-93dc-8f790922f3ea"/>
+<img height="180em" alt="Gif" src="https://github.com/HumbertoFox/repository/assets/126817628/dba6e42c-c67c-4ec6-93dc-8f790922f3ea"/>
  
 </div>
 
- <p align="center">
+<br>
+
+ <div align="center">
   
-    Pra conteúdo sobre programação e eletrônica me segue nas redes abaixo!
+  ### Pra conteúdo sobre programação e eletrônica me segue nas redes abaixo! 📚
+  
+ </div>
  
- </p>
+ <br>
  
-<div align="center"> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/humbertofox" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href="https://br.linkedin.com/in/humberto-ribeiro-sales" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/HumbertoRSFox" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<div align="center">
+ 
+  <a href="https://www.youtube.com/@betofoxnet_info" target="_blank"><img alt="Icone Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.instagram.com/humbertofox" target="_blank"><img alt="Icone Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://discord.com/users/413354973318086677" target="_blank"><img alt="Icone Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://br.linkedin.com/in/humberto-ribeiro-sales" target="_blank"/><img alt="Icone Linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/HumbertoRSFox" target="_blank"><img alt="Icone Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.frontendmentor.io/profile/HumbertoFox" target="_blank"><img alt="Icone Frontendmentor" src="https://img.shields.io/badge/FrontendMentor-593D88?style=for-the-badge&logo=frontendmentor&logoColor=white"/></a>
+
 </div>
+
 <div align="center">
    
    ![snake gif](https://github.com/HumbertoFox/HumbertoFox/blob/output/github-contribution-grid-snake.svg)
    
+</div>
+
+<div align="center">
+ 
+  <img src="https://visitor-badge.feriirawann.repl.co/?username=humbertofox&repo=humbertofox&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Contador de Visitas do Perfil no Github de Humberto Ribeiro" height="40px"/>
+
 </div>
