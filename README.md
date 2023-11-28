@@ -65,12 +65,12 @@
  
 <div align="center">
  
-  <a href="https://www.youtube.com/@betofoxnet_info" target="_blank"><img alt="Icone Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://www.instagram.com/humbertofox" target="_blank"><img alt="Icone Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://discord.com/users/413354973318086677" target="_blank"><img alt="Icone Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://br.linkedin.com/in/humberto-ribeiro-sales" target="_blank"/><img alt="Icone Linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/HumbertoRSFox" target="_blank"><img alt="Icone Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.frontendmentor.io/profile/HumbertoFox" target="_blank"><img alt="Icone Frontendmentor" src="https://img.shields.io/badge/FrontendMentor-593D88?style=for-the-badge&logo=frontendmentor&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@betofoxnet_info" ><img alt="Icone Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.instagram.com/humbertofox" ><img alt="Icone Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://discord.com/users/413354973318086677"><img alt="Icone Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://br.linkedin.com/in/humberto-ribeiro-sales" /><img alt="Icone Linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/HumbertoRSFox"><img alt="Icone Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.frontendmentor.io/profile/HumbertoFox" ><img alt="Icone Frontendmentor" src="https://img.shields.io/badge/FrontendMentor-593D88?style=for-the-badge&logo=frontendmentor&logoColor=white"/></a>
 
 </div>
 
