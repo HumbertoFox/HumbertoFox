@@ -87,3 +87,11 @@
   <img height="40px" src="https://visitor-badge.feriirawann.repl.co/?username=humbertofox&repo=humbertofox&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Contador de Visitas do Perfil no Github de Humberto Ribeiro"/>
 
 </div>
+
+<div align=center>
+ 
+ <a href='https://www.counter12.com'>
+  <img src='https://www.counter12.com/img-AZcZ78DWZ8A50Zbb-33.gif' border='0' alt='Contador de Visitas do Perfil no Github de Humberto Ribeiro'>
+ </a>
+
+</div>
