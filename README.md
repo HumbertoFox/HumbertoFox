@@ -81,9 +81,3 @@
 </div>
 
 ##
-
-<div align="center">
- 
-  <img height="40px" src="https://visitor-badge.feriirawann.repl.co/?username=humbertofox&repo=humbertofox&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Contador de Visitas do Perfil no Github de Humberto Ribeiro"/>
-
-</div>
