@@ -51,7 +51,7 @@
 
 - 🔍 Veja ulguns pojetos do [**Frontend Mentor**](https://www.frontendmentor.io/profile/HumbertoFox/solutions)!
 
-- 🔍 Dê uma olhada no meu [**Prtifolio**](https://humbertofox.github.io/portfolio/)!
+- 🔍 Dê uma olhada no meu [**Prtifolio**](https://portfolio-react-lemon-pi.vercel.app/)!
 
 - 🤝 Sempre procuro ajuda para aprender **é ajudando que se aprende**.
 
