@@ -56,9 +56,9 @@
 
 - 🔍 Dê uma olhada no meu [**Prtifolio**](https://portfolio-react-lemon-pi.vercel.app/)!
 
-- 🤝 Sempre procuro ajuda para aprender **é ajudando que se aprende**.
+- 🤝 Sempre procuro ajuda para aprender, **é ajudando que se aprende**.
 
-- 📚 Atualmente estou aprendendo **Desenvolvimento js FrontEnd**.
+- 📚 Atualmente estou me aprimorando em alguns Frameworks **Desenvolvimento js/php FrontEnd e BackEnd**.
  
 </div>
 
