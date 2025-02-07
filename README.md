@@ -50,7 +50,7 @@
 
 <img align="right" height="180em" alt="Gif" src="https://github.com/HumbertoFox/repository/assets/126817628/dba6e42c-c67c-4ec6-93dc-8f790922f3ea"/>
 
-- 👨‍🎓 Estudo para me tornar um **Desenvolvedor Fullstack**.
+- 👨‍🎓 Estudo para me aprimorar em **Desenvolvedor Fullstack**.
 
 - 🔍 Veja ulguns pojetos do [**Frontend Mentor**](https://www.frontendmentor.io/profile/HumbertoFox/solutions)!
 
@@ -58,7 +58,7 @@
 
 - 🤝 Sempre procuro ajuda para aprender, **é ajudando que se aprende**.
 
-- 📚 Atualmente estou me aprimorando em alguns Frameworks **Desenvolvimento js/php FrontEnd e BackEnd**.
+- 📚 Atualmente estou me aprimorando em alguns Frameworks em **js/php FrontEnd e BackEnd**.
  
 </div>
 
